@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic, cinematic photo of a man standing in a high-end tailor shop. He is wearing a tuxedo made of incredibly stiff, thick charcoal fabric. The suit is tailored with such impossible precision that every tiny wrinkle of his skin and the exact curve of his spine while leaning slightly is reflected in the suit's permanent, rigid shape. Because the suit is so perfectly 'fitted' to this one specific leaning posture, the fabric is visibly straining and locking his limbs; he looks trapped, unable to stand up straight or take a step. No text, no diagrams, no floating data. Soft dramatic overhead lighting, 8k resolution, photorealistic.",
+  "model": "DALL·E 3",
+  "concept": "Overfitting",
+  "metaphor": "A suit tailored so perfectly to one specific frozen pose (training data) that it becomes a rigid cage, making it impossible for the wearer to move or function (generalize)."
+}
